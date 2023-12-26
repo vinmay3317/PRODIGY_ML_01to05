@@ -22,13 +22,13 @@ The program preprocesses and flattens the images, applies Principal Component An
 pip install opencv-python pandas numpy scikit-learn scikit-image matplotlib
 
 -Run the Program:
-Execute the provided Jupyter Notebook svm_image_classification.ipynb in your preferred development environment.
+Execute the provided Jupyter Notebook Task-3.ipynb in your preferred development environment.
 
 -Follow Instructions:
 The program guides you through loading the dataset, preprocessing images, applying PCA, training the SVM model, and making predictions.
 
 ## Files
-svm_image_classification.ipynb: Jupyter Notebook containing the SVM image classification implementation.
+Task-3.ipynb: Jupyter Notebook containing the SVM image classification implementation.
 
 train/: Directory containing the training images (cats and dogs).
 
